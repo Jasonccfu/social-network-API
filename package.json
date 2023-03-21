@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Jasonccfu/social-network-API.git"
   },
-  "author": "",
+  "author": "Jason Chen",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Jasonccfu/social-network-API/issues"
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Jasonccfu/social-network-API#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "moment": "^2.29.3",
     "mongoose": "^7.0.1"
   }
 }

@@ -9,7 +9,7 @@
 
 ## Description
 
-It's a powerful application ....
+It's a powerful application that can save data in MongoDB and use in Insomnia to check or edit your database.
 
 ## Installation
 
